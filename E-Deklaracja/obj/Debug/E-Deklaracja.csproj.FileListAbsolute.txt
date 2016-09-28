@@ -1,0 +1,8 @@
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\Debug\E-Deklaracja.exe.config
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\Debug\E-Deklaracja.exe
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\Debug\E-Deklaracja.pdb
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\Debug\E-Deklaracja.csprojResolveAssemblyReference.cache
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\Debug\E_Deklaracja.Properties.Resources.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\Debug\E-Deklaracja.csproj.GenerateResource.Cache
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\Debug\E-Deklaracja.exe
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\Debug\E-Deklaracja.pdb

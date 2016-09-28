@@ -1,0 +1,13 @@
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Debug\E-Deklaracja.exe.config
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Debug\E-Deklaracja.exe
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Debug\E-Deklaracja.pdb
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Debug\GPS.Components.Cryptography.dll
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Debug\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Debug\GPS.EDeklaracje.pdb
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E-Deklaracja.csprojResolveAssemblyReference.cache
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E_Deklaracja.Controls.SendControl.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E_Deklaracja.FrmMain.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E_Deklaracja.Properties.Resources.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E-Deklaracja.csproj.GenerateResource.Cache
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E-Deklaracja.exe
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Debug\E-Deklaracja.pdb

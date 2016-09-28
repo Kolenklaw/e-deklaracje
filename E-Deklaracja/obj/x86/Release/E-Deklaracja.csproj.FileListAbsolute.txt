@@ -1,0 +1,12 @@
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Release\E-Deklaracja.exe.config
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Release\E-Deklaracja.exe
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Release\E_Deklaracja.FrmMain.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Release\E_Deklaracja.Properties.Resources.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Release\E-Deklaracja.csproj.GenerateResource.Cache
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Release\E-Deklaracja.exe
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Release\E-Deklaracja.csprojResolveAssemblyReference.cache
+F:\Projects\E-Deklaracja\E-Deklaracja\obj\x86\Release\E_Deklaracja.Controls.SendControl.resources
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Release\GPS.Components.Cryptography.dll
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Release\GPS.EDeklaracje.dll
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Release\GPS.Components.Cryptography.pdb
+F:\Projects\E-Deklaracja\E-Deklaracja\bin\x86\Release\PDFSharp.dll
